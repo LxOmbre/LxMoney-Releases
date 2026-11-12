@@ -1,0 +1,56 @@
+LICENCE D'UTILISATION DE LXMONEY
+Logiciel propriétaire gratuit — Copyright © 2026 LxOmbre. Tous droits réservés.
+
+1. OBJET
+LxMoney (applications Windows et Android, y compris leurs mises à jour, interfaces, textes, icônes et
+documentation) est une œuvre protégée par le droit d'auteur (Code de la propriété intellectuelle,
+notamment ses articles L111-1, L122-4 et L122-6). Il n'est pas vendu : son utilisation est concédée
+selon les termes ci-dessous. Télécharger, installer ou utiliser LxMoney vaut acceptation de cette licence.
+
+2. CE QUI EST AUTORISÉ, GRATUITEMENT ET SANS ACTIVATION
+Toute personne physique peut, gratuitement, sans compte, sans clé ni activation et sans limite de durée :
+  a) télécharger LxMoney depuis sa source officielle (https://github.com/LxOmbre/LxMoney-Releases) ;
+  b) l'installer et l'utiliser sur ses propres appareils, pour un usage personnel ou professionnel ;
+  c) installer ses mises à jour officielles ;
+  d) indiquer à d'autres personnes où télécharger LxMoney (lien vers la source officielle).
+
+3. CE QUI EST INTERDIT SANS AUTORISATION ÉCRITE DE L'AUTEUR
+  a) redistribuer LxMoney ou ses fichiers d'installation (hébergement, partage, revente, intégration à
+     une autre offre), autrement que par un lien vers la source officielle ;
+  b) modifier, adapter, traduire, reconditionner ou recompiler LxMoney, ou distribuer une version modifiée ;
+  c) supprimer ou altérer les mentions d'auteur, de copyright ou de licence ;
+  d) présenter LxMoney, tout ou partie de son code, de son interface ou de son identité visuelle comme
+     son œuvre, ou utiliser le nom « LxMoney » pour un autre produit ;
+  e) vendre, louer ou concéder LxMoney à un tiers ;
+  f) décompiler, désassembler ou extraire le code de LxMoney, sauf dans les cas où la loi l'autorise
+     expressément (article 4).
+
+4. DROITS RECONNUS PAR LA LOI
+Cette licence ne restreint aucun droit que la loi accorde impérativement à l'utilisateur légitime,
+notamment ceux de l'article L122-6-1 du Code de la propriété intellectuelle : réaliser une copie de
+sauvegarde, observer, étudier ou tester le fonctionnement du logiciel, et décompiler dans la stricte
+mesure nécessaire à l'interopérabilité, dans les conditions prévues par ce texte.
+
+5. COMPOSANTS TIERS
+LxMoney intègre des composants libres (React, Electron, Capacitor, Dexie, Recharts, police Inter, etc.)
+distribués selon leurs propres licences, reproduites dans THIRD-PARTY-NOTICES.txt (et, sous Windows,
+LICENSE.electron.txt et LICENSES.chromium.html). Ces licences priment pour ces composants ; la présente
+licence ne s'applique qu'à LxMoney lui-même.
+
+6. VOS DONNÉES
+Vos données restent sur vos appareils et, si vous l'activez, dans votre propre espace Google Drive, chiffrées.
+L'auteur n'y a pas accès. Cette licence ne lui confère aucun droit sur vos données.
+
+7. ABSENCE DE GARANTIE
+LxMoney est fourni « en l'état », sans garantie, dans les limites permises par la loi. Les montants
+affichés sont des estimations indicatives et ne remplacent pas votre bulletin de paie, votre employeur
+ou un conseil professionnel. Dans les limites permises par la loi, l'auteur n'est pas responsable des
+décisions prises sur la base de ces estimations.
+
+8. FIN DE LA LICENCE
+Toute violation des articles 3 met fin automatiquement au droit d'utiliser LxMoney, sans préjudice des
+recours de l'auteur (notamment au titre de la contrefaçon, articles L335-2 et suivants du CPI).
+
+9. DROIT APPLICABLE
+Cette licence est régie par le droit français. Contact pour toute autorisation : via le dépôt officiel
+https://github.com/LxOmbre/LxMoney-Releases.
