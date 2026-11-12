@@ -60,7 +60,8 @@ Pas de compte LxMoney, pas d'abonnement : vos données restent sur vos appareils
 - Données chiffrées de bout en bout. Les conflits sont signalés, rien n'est écrasé sans votre accord.
 
 ### 🔒 Sécurité des données
-- Coffre **chiffré** sur chaque appareil, protégé par un **code PIN** (Android Keystore sur le téléphone).
+- Coffre **chiffré** sur chaque appareil (Android Keystore sur le téléphone), avec un **code PIN facultatif**
+  pour verrouiller l'ouverture de LxMoney.
 - Sauvegardes chiffrées par mot de passe, à exporter et restaurer quand vous voulez.
 - Aucune donnée envoyée à l'auteur de LxMoney.
 
